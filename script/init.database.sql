@@ -8,6 +8,7 @@ Script Purpose:
 Warning:
 	Running this script will drop the entire 'DataWareHouse' database if it exists.
 	All data in the database will be permanently deleted. Proceed with the caution and ensure you have proper backups b4 running this script.
+*/
 
 use master;
 Go
